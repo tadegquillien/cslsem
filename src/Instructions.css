@@ -1,0 +1,4 @@
+.instContainer {
+    display: flex;
+    flex-direction: row;
+}
